@@ -8,6 +8,10 @@
 
 Nexus is a solo productivity app. It runs as a Tauri desktop shell around a React UI, and stores data in your Neon project. Email flagging comes later.
 
+<p align="center">
+  <img src="docs/screenshots/todos.png" alt="Nexus Todos view in dark mode" width="880" />
+</p>
+
 ## Stack
 
 | Layer | Choice |
